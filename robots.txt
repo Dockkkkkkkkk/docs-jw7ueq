@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://resources-bmrh12.juragan89.online/sitemap.xml
